@@ -1,4 +1,8 @@
 new Test
 MORE TEXT
+<<<<<<< HEAD
 AAAAAAAA
+=======
+BEEEEEEEE
+>>>>>>> 4f3fdc02994d43fb06df5cfe1949f369aebea2df
 
